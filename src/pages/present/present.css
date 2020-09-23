@@ -1,0 +1,24 @@
+.present-page {
+	padding-top: 100px;
+}
+
+.present-page > div.row > div.present-column {
+	background-color: #CCCCCC;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+div.present-card {
+	min-height: 200px;
+	top: 0px;
+	margin-bottom: 30px;
+}
+
+.present-card > div.present-card-body {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.present-card > div.present-card-body > h1 {
+	font-size: 80px;
+}
